@@ -1,0 +1,20 @@
+D:\Github\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\bin\Debug\Intel 8086.exe.config
+D:\Github\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\bin\Debug\Intel 8086.exe
+D:\Github\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\bin\Debug\Intel 8086.pdb
+D:\Github\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.csproj.AssemblyReference.cache
+D:\Github\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel_8086.Form1.resources
+D:\Github\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel_8086.Properties.Resources.resources
+D:\Github\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.csproj.GenerateResource.cache
+D:\Github\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.csproj.CoreCompileInputs.cache
+D:\Github\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.exe
+D:\Github\Arhitektura-systemuw\Arhitektura-systemuw\Intel 8086\obj\Debug\Intel 8086.pdb
+D:\Program Files\Data science\Projekty\Intel 8086\bin\Debug\Intel 8086.exe.config
+D:\Program Files\Data science\Projekty\Intel 8086\bin\Debug\Intel 8086.exe
+D:\Program Files\Data science\Projekty\Intel 8086\bin\Debug\Intel 8086.pdb
+D:\Program Files\Data science\Projekty\Intel 8086\obj\Debug\Intel 8086.csproj.AssemblyReference.cache
+D:\Program Files\Data science\Projekty\Intel 8086\obj\Debug\Intel_8086.Form1.resources
+D:\Program Files\Data science\Projekty\Intel 8086\obj\Debug\Intel_8086.Properties.Resources.resources
+D:\Program Files\Data science\Projekty\Intel 8086\obj\Debug\Intel 8086.csproj.GenerateResource.cache
+D:\Program Files\Data science\Projekty\Intel 8086\obj\Debug\Intel 8086.csproj.CoreCompileInputs.cache
+D:\Program Files\Data science\Projekty\Intel 8086\obj\Debug\Intel 8086.exe
+D:\Program Files\Data science\Projekty\Intel 8086\obj\Debug\Intel 8086.pdb
